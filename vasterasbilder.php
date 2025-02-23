@@ -26,12 +26,7 @@
                 <p class="lead">Fotografi - Texter - Sociala medier</p>
 
 <p>Hör av dig! <a href="mailto:kontakt@vasterasbilder.se">kontakt@vasterasbilder.se</a></p>
-<?php echo "Uppdaterad: " . date ("F d Y H:i:s.", filemtime(basename(__FILE__)));?>
 </div>
         </div>
-        <!-- Bootstrap core JS-->
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
-        <!-- Core theme JS-->
-        <script src="js/scripts.js"></script>
     </body>
 </html>
