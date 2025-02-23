@@ -67,12 +67,7 @@ av ett tåg vid en järnvägsövergång i byn L'Hospitalet de Llobregat. Omstän
 idag inte kända, men ett vanligt antagande är att hans nedsatta hörsel gjorde att han helt enkelt inte hörde tåget komma. Så abrupt och tragiskt avslutades ett av Sveriges mest
 besynnerliga livsöden.</p>
 
-<?php echo "Uppdaterad: " . date ("F d Y H:i:s.", filemtime(basename(__FILE__)));?>
-            </div>
+</div>
         </div>
-        <!-- Bootstrap core JS-->
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
-        <!-- Core theme JS-->
-        <script src="js/scripts.js"></script>
     </body>
 </html>
