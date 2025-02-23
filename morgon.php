@@ -90,14 +90,6 @@ Gör dess tröskel så slät att den inte blir en stötesten för barn eller vil
 men så hög och stark att den tvingar frestarens makt tillbaka.<br />
 Gud, låt dörren till detta hus bli en port till ditt eviga rike. Amen<br />
 </p>
-<?php echo "Uppdaterad: " . date ("F d Y H:i:s.", filemtime(basename(__FILE__)));?>
-</p>
 
-            </div>
-        </div>
-        <!-- Bootstrap core JS-->
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
-        <!-- Core theme JS-->
-        <script src="js/scripts.js"></script>
     </body>
 </html>
