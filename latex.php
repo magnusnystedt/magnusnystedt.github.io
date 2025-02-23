@@ -82,12 +82,7 @@ pages = {511-526},
 <h2>Namnge källor, filer och utskrifter</h2>
 <p>Här kommer ett till tips! Just nu sitter jag med en inlämningsuppgift där jag använder en rad webbartiklar som källor. De ska då naturligtvis in i Zotero och jag synkar till projektet i Overleaf. Det kortnamn en källa får i Overleaf (t.ex. "karlsson_text_2012") är ju den referens du anger i LaTex. Jag sparar om jag kan alla mina källor som PDF-filer och skriver ofta också ut dem, om de inte är alldeles för långa (webbsidor har ju en tendens att ändras och försvinna). Då gör jag så att jag namnger respektive PDF-file samma som kortnamnet och jag skriver även kortnamnet på utskriften. Då är det lätt att senare gå tillbaka och hitta källan.</p>
 <p>Gör det från början i ditt projekt. Väntar du till senare kan det bli svårt att få till allt rätt.</p>
-<?php echo "Uppdaterad: " . date ("F d Y H:i:s.", filemtime(basename(__FILE__)));?>
-            </div>
+</div>
         </div>
-        <!-- Bootstrap core JS-->
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
-        <!-- Core theme JS-->
-        <script src="js/scripts.js"></script>
     </body>
 </html>
