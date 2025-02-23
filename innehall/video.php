@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Magnus Nystedt - Tips om video</title>
+        <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="../assets/favicon.ico" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="../css/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <!-- Responsive navbar-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container">
+                <a class="navbar-brand" href="https://magnusnystedt.se">Magnus Nystedt</a>
+
+            </div>
+        </nav>
+        <!-- Page content-->
+        <div class="container">
+            <div class="text-left mt-5">
+                <h1>Tips om video</h1>
+				
+				<p class="lead">Video är ett jättebra sätt att nå ut till en målgrupp med ett budskap. Det är också ett jättebra sätt att etablera kontakt med din målgrupp, de som tittar. Jag får en del frågor om videoutrustning, så jag tänkte jag samlar några tips och tankar här. Här vänder jag mig speciellt till dig som vill göra videor där du filmar eller livesänder dig själv.</p>
+
+<h3>1. Planering och filmning</h3>
+
+<p>Försök tänka smart: Då menar jag tänk smart angående hur du planerar och filmar. Titta på <a href="https://youtu.be/gO5vDeVWjLo">det här</a> som exempel (samma format <a href="https://youtu.be/vFjdAGMgsCo">här</a> och <a href="https://youtu.be/LdvaipGPr10">här</a>). Jag gjorde så att jag läste texten i början och slutet rakt in i kameran, det i mitten läste jag från ett papper som jag hade i handen. Sen klippte jag in bilder över det så att det inte syns. Ett enkelt alternativ att göra video enkelt och snabbt. <a href="https://www.youtube.com/watch?v=PQDp-IZ96Bo&list=PLjm7lAKowdrePIe5lGMf3dsYrqIvgpCvp">Julkalender 2017</a> är ett annat exempel där jag försökte jobba smart för att skapa en rad videor utifrån en mall. <a href="https://youtu.be/Rr9EpTukuIU">Den här videon</a> förenklade jag genom att spela in speakerrösten separat, vilket underlättade filmingen på plats.</p>
+
+<p>Variera typen av video: Då menar jag att alla videor ska inte vara av samma typ eller format. Gör inte bara videor där en person pratar rakt in i kameran, gör inte bara videor som är intervjuer osv. Variera typen av video för att hålla din publik/målgrupp intresserad. <a href="https://www.youtube.com/watch?v=il7EahAbfX4">Här är ett exempel</a> på ett bildspel med musik, ett exempel på en typ av video som passar bra för sociala medier. <a href="https://www.youtube.com/watch?v=_rMgFZ69Thg">Den här videon</a> är ett experiment med ett för mig nytt format. Det fungerade bra, men vi skulle använt en tjockare penna. Sen kan man ha <a href="https://youtu.be/VCYabe3bg_4">lite kul</a> också, det skadar inte.</p>
+
+<p>Ta rikligt med miljöbilder: Miljöbilder kallar jag sånt som du filmar extra utöver t.ex. en intervju. Du vet aldrig vad du kan behöva korta klipp till. I nästan vilken situation som helst finns det mycket att filma och det behöver inte ta speciellt lång tid. Titta på <a href="https://www.youtube.com/watch?v=NSLiknTFl-E">den här videon</a>. Det är en ganska konventionell intervjusituation i grunden, men jag har filmat en hel del annat material som jag då kan klippa in. Det gör videon lite trevligare att titta på, tycker jag.</p>
+
+<p>Titta in i kameran: Det är lätt hänt att du när du spelar in dig själv så tittar du rakt in i skärmen. Problemet med det är för tittaren kommer det se ut som att du tittar vid sidan av kameran. Objektivet på framsidan av iPhone (och de flesta andra telefoner) sitter precis bredvid högtalaren längst upp på telefonen (om du håller den i lodrätt läge). Så istället för att titta rakt in i skärmen, titta på högtalaren. Det ger dig bättre kontakt med de som tittar.</p>
+
+<p>Filma inte upp i näsan: Det är inte ovanligt att se videor där vinkeln är upp i personens näsa. Undvik det! Det bästa är att filma ditt ansikte rakt på. Om inte det går, hellre då lite ovanifrån.</p>
+
+<p>Spontant eller planerat: För det första, det behöver inte vara alltid det ena eller det andra. En mix är nog att föredra. Men även en spontant video mår bra av att tänkas igenom. Vad är ditt budskap? Vad vill du säga? Vilket intryck ska tittarna få? Det är få av oss som klarar av att ställa oss framför en kamera och utan förberedelser göra en kort och koncis filmning. Jag skulle dock generellt ge rådet att planera dina videor, de blir bättre då. Skriv åtminstone ner några tankar och svar på frågorna ovan. <a href="https://www.youtube.com/watch?v=geapcPrupdM">Här är ett exempel</a> på en video som var planerad nästan in på minsta detalj, åtminstone ner på sekundnivå.</p>
+
+<p>Fejka en intervju: Jag upplever att många människor tycker det är speciellt svårt att titta rakt in i en kamera och bli inspelad. Däremot verkar många uppleva det som lättare om de blir intervjuade. Dels får de då frågor som de kan svara på, dels så har de en annan person att titta på. Så intervjuformat fungerar ofta bra. Ställ då personen lite till en sida i bilden och så att de tittar på dig eller någon annan som intervjuar, den personen står på motsatta sidan av telefonen/kameran jämfört med den som intervjuas. Ofta är det inte nödvändigt att i den färdiga videon ta med intervjuarens frågor, utan bara svaren. Det gäller dock då att tänka ett varv extra på de frågor som ska ställas. <a href="https://youtu.be/50Lu9RyJGOw">Här</a> kan du se ett exempel på det. Du kan också se <a href="https://youtu.be/licpBkx1TH0">ett exempel</a> på en mer tv-lik intervju där frågorna är med i inspelningen.</p>
+
+<p>Filma under studiebesök: Studiebesök är underbara tillfällen till att skapa innehåll. Titta på <a href="https://www.youtube.com/watch?v=TyG2gQWGCLA">den här videon</a>. Under studiebesöket filmade jag korta klipp. Efter studiebesöket spelade jag in Lars med min telefon, bara ljudet alltså, och redigerade ihop det med klippen. Det är ett enkelt sätt att skapa en video som passar bra för sociala medier. <a href="https://www.youtube.com/watch?v=Sfbbec1MPsI">Det här</a> är ett annat exempel på ett studiebesök som blev video. I det här fallet var det inte planerat att det skulle bli en video, men jag filmade under besöket ändå och det som intervjupersonen sa gav upphov till videons fokus.</p>
+
+<p>Ta stillbilder: När du filmar, ta gärna några stillbilder av personen eller det du filmar. De kan du användare senare för filmens tumnagel (förhandsvisningsbild). Det är bilden du ser t.ex. i Facebookflödet innan du klickar för att spela upp den. Jag tycker det är snyggt om man när videon är färdigredigerad tar en skärmdump av videons första ruta och gör den till tumnagel, då blir uppspelningen helt sömlös för tittaren. Då måste du dock undvika att lägga logga, text och andra element på åtminstone första bildrutan i videon, eller tona in dem.</p>
+
+<p>Suddig bakgrund: Jag tycker det är snyggt, speciellt om man filmar en person, när bakgrunden år lite suddig. Då framstår personen tydligare och tittarens blick fokuseras. Det uppnår du på bästa sätt genom att filma med en kamera där du kan byta objektiv och ett objektiv med lågt minsta bländarvärde, t.ex. f2,0. Men även om du filmar med telefon eller ett annat objektiv så kan du frilägga personen från bakgrunden. Tricket är då att du ställer personen långt framför bakgrunden. <a href="https://youtu.be/QVaE1_GWWYs">här</a> du ett exempel på vad jag menar.</p>
+
+<p>Håll det kort: När du planerar för en film, tänk på att hålla den kort. Hellre kort och slagkraftig än längre och luddig i sitt budskap. Inspelad video bör hålla sig till max två minuter (eller 2:20 som är max tid för video på Twitter) och även det kan vara för långt. Att tänka som om du skapar en annons för tv är inte helt fel. Och håll dig till några få budskap. I en video på en minut hinner du inte med mer än säg två budskap. Vad gäller tiden är det annorlunda med livevideo, den kan med fördel vara längre, se längre ner på sidan.</p>
+
+<h3>2. Tänk på ljuset</h3>
+<p>Det allra bästa sättet att få en snygg video är att ha bra ljus. Ibland är det svårt att välja vilket ljus du har att arbeta med, då är det bara att gilla läget. Men har du möjlighet att välja ljus så gör det.</p>
+
+<p>Det är viktigt att förstå <a href="https://www.videoschool.com/white-balance-guide/">vitbalans</a>, alltså att allt ljus har en färgton och kameran måste vara ställd på rätt vitbalans för den miljö du filmar i.</p>
+
+<p>Undvik direkt solljus. Det är starkt, ger djupa och skarpa skuggor, och människor kisar. Ställ hellre personen i skuggan, där är ljuset mjukare och sprids lättare jämnt över t.ex. ett ansikte. <a href="https://youtu.be/eSlV017mCKA">Här är</a> ett exempel på det.</p>
+
+<P>Undvik att ställa en person mot ett fönster. Det kan du klara om du använder manuella inställningar, men i de flesta lägen kommer personen bli mörk mot en ljus bakgrund, alltså inte bra. Då är det sannolikt bättre att filma från fönstret mot personen, alltså vänd på uppställningen.</p>
+
+<p>Undvik lysrör. Ofta har du inget val annat än att filma inomhus. Undvik då om det går att filma under lysrör. Då kan lätt få flimmer i din video eller rullande band, mörka strimmor som rör sig på videon. Glödlampor medför inte samma utmaningar.</p>
+
+<p>Undvik blandade ljuskällor. Det kan vara svårt, men undvik att filma i miljöer som har flera olika ljuskällor, speciellt ljuskällor med olika färg. Problemet blir att du ställer vanligtvis vitbalansen utifrån färgtonen på ljuset, men olika ljuskällor kan ha olika färgton. I en sådan situation får du välja den vitbalans som ger bäst resultat.</p>
+
+<h3>3. Mikrofon</h3>
+
+<p>Ett av de bästa sätten att förbättra kvaliteten på video är att använda en extern mikrofon, speciellt en mygga. Det finns många myggor att välja mellan, både trådade och trådlösa. Jag rekommenderar att du börjar med en trådad, för de är billigare, tar mindre plats i en väska, och minimerar risken för att fel och problem uppstår.</p>
+
+<p>Fäst myggan runt 10cm under hakan på kavajuppslaget, fickan eller annat.</p>
+
+<p>Om du kommer spela in mycket video utomhus kan det vara bra att skaffa en vindpäls.</p>
+
+<p>Här är två bra mikrofoner jag kan rekommendera:</p>
+
+<p>Røde SmartLav+: En mygga med mycket bra ljudkvalitet. Den är redo för att koppla in till en iPhone med  <a href="https://www.kjell.com/se/produkter/mobilt/ipad-tillbehor/lightning/apple-lightning-till-3-5-mm-horlursuttag-p97257">Apple Lightning till 3,5 mm hörlursuttag</a>. Den finns att köpa bl.a. <a href="https://www.komplett.se/product/935882/foto-video/kameratillbehor/kameramikrofon/roede-smartlav">här</a>. Sladden är inte i längsta laget så det kan vara bra att skaffa <a href="https://www.scandinavianphoto.se/rode/sc1-kabel-35mm-trrs-hane-till-trrs-35mm-hona-1017823">en förlängning</a>. Smartlav säljs också i <a href="https://kjell.com/se/produkter/mobilt/gadgets/ljudinspelning/rode-sc6-l-ljudkortskit-for-iphone-p57948">ett kit</a> med två myggor, ett bra val om du vet att du kommer spela in intervjuer.</p>
+
+<p>Audio Technica ATR3350IS: också en mycket bra mygga som kommer med lite längre sladd än SmartLav+. Plus att den kräver ett batteri för att fungera (det räcker länge dock). Även för den här mikrofonen behöver du Apples adapter.</p>
+
+<p>Vill du istället ha en riktad mikrofon är <a href="https://www.komplett.se/product/935866/foto-video/kameratillbehor/kameramikrofon/roede-videomicro-mikrofon">Røde VideoMicro</a> ett bra val.</p>
+
+<p>En riktad mikrofon passar i sammanhang där en mygga inte räcker för flera personer ska prata i videon, <a href="https://youtu.be/FyokJ-AaSE0">som här</a> (en livevideo från Facebook), men även för en person om omgivningen är ganska tyst.</p>
+
+<p>Och vill du ha en mikrofon att hålla i handen, en sådan som journalister ofta har, kan jag rekommendera <a href="https://www.scandinavianphoto.se/rode/mikrofon-reporter-1002697">Røde Reporter</a>.</p>
+
+<h3>4. Stativ</h3>
+
+<p>Ett stativ är ett annat väldigt bra sätt att förbättra kvaliteten på dina videor. Det behöver inte vara ett golvstativ utan kan med fördel vara ett litet bordsstativ, som t.ex. <a href=https://www.kjell.com/se/produkter/mobilt/mobilhallare/joby-griptight-gorillapod-pro-tripod-for-mobil-p57271">det här</a>. Litet nog att ha i väskan och även flexibelt nog att ställa på ett bord eller fästa runt en stolpe.</p>
+
+<p>Även om du vill röra dig och hålla telefonen i handen så hjälper ett stativ som då blir till ett handgrepp som gör att du kan hålla telefonen stadigare.
+
+<p>Vill du ha ett stativ som når vanlig höjd, är <a href="https://www.kjell.com/se/produkter/ljud-bild/foto-video/studio/stativ/manfrotto-kompakt-trebensstativ-p57551">det här</a> ett bra alternativ.</p>
+
+<p>Ska du filma med mobil så behöver du en hållare för telefonen så du kan sätta den på stativet. <a href="https://www.scandinavianphoto.se/manfrotto/smartphonefaste-twistgrip-universal-1029339">Det här</a> är en riktigt bra hållare om än lite dyr.</p>
+
+<h3>5. Prompter</h3>
+
+<p>Ett sätt att göra en riktigt proffsig produktion är att skriva ett manus och läsa det från en prompter. <a href="https://youtu.be/414rieZjGvo">Här är en video</a> där hon läser från en prompter.</p>
+
+<p>Börja med att skriva ett manus. Läs det högt för dig själv och för andra, fila på det tills det flyter på bra. Byt ut ord och uttryck som du har problem med. När texten är klar kan du ladda in den i en teleprompterapp.</p>
+
+<p>Jag har använt ett antal appar för prompter, men min favoriter är <a href="https://videoteleprompter.com/">Video Teleprompter</a>(för iOS) och <a href="https://afellapps.com/">Nano Teleprompter</a>(för Android). Det riktigt finurliga med den appen är att den kan filma dig samtidigt som du läser ditt manus som rullar förbi på telefonens skärm. Det kan bli riktigt proffsig!</p>
+
+<h3>6. Appar</h3>
+
+<p>För livesändning på Facebbook och Instagram använder du respektive app. Vill du livesända på Twitter använder du Periscope. Om du vill spela in video så funkar förstås den inbyggda appen bra, men jag rekommenderar appen <a href="https://www.filmicpro.com/">Filmic Pro</a> om du vill ha mer kontroll över din video.</p>
+
+<h3>7. Redigering</h3>
+
+<p>Du kan redigera video på din telefon eller surfplatta, men det kan bli lite bökigt. För iOS finns <a href="https://apps.apple.com/se/app/imovie/id377298193">iMovie</a>, som är gratis. Mer professionell är <a href="https://luma-touch.com/lumafusion-for-ios-2/">Luma Fusion</a>, men den kostar också lite grann. LumaFusion fungerar utmärkt på iPad.</p>
+
+<p>För dator rekommenderar jag Adobe Premiere som är en del av <a href="https://www.adobe.com/se/creativecloud/plans.html">Adobe Creative Cloud</a>. Ett bra gratisalternativ är <a href="https://www.blackmagicdesign.com/products/davinciresolve/">DaVinci Resolve</a>.</p>
+
+Använder du Premiere Pro för att skapa din video kan du använda format H.264 och inställningen "Facebook HD" som förval för när du ska spara ut videon. Jag brukar också klicka i valet "maximal kvalitet". Skapar du videor för andra plattformar väljer du den förinställning som bäst passar respektive plattform.</p>
+
+<h3>8. Textning</h3>
+
+<p>Det är viktigt att texta video, så lägg den extra tiden som textning kräver. Du kan vad jag vet inte få text på livesändning, däremot kan du texta livesänd video på Facebook i efterhand och ladda upp undertexterna.</p>
+
+<p>Apple har en app som heter <a href="https://www.apple.com/se/clips/">Clips</a>. Den kan texta automatiskt, medan du pratar. Det fungerar riktigt bra, men du kommer kanske få anpassa hur du pratar lite, speciellt hur snabbt du pratar. Men med lite övning kan du få det att fungera riktigt bra.</p>
+
+<p>Du kan texta själv i efterhand i olika appar. På en dator är det förstås lättare, speciellt för att du har ett tangentbord. I princip tittar du på videon bit för bit och skriver ner vad du säger. Du kan också använda YouTubes <a href=https://support.google.com/youtube/answer/2734796?hl=sv">textningsverktyg</a>. Då får du en <a href="https://undertextning.nu/branna-undertexten-eller-srt-fil/">textningsverktyg</a> som du sedan kan ladda upp till t.ex. Facebook. Facebook har också ett textningsverktyg.</p>
+
+<p>Sen har du ett val om du ska bränna in texterna eller inte. Att bränna in texterna betyder att texten blir en del av videon, du kan sedan inte göra något med undertexterna, de sitter fast liksom. Fördelen är att texterna visas överallt videon visas, även om inte plattformen inte stödjer SRT-filer. Nackdelen är att tittaren inte kan välja bort att visa undertexten, den finns alltid där. Med SRT kan man också ge tittaren valet mellan undertexter på flera olika språk, det går inte när texten bränns in.</p>
+
+<p>Slutsatsen blir att på plattformar där SRT stödjs så bör du inte bränna i undertexter. Det gäller framförallt Facebook och YouTube. På andra plattformar ska du bränna in undertexten, framförallt på Instagram och Twitter (på Twitter kan man tydligen ladda upp SRT-filer, men bara om man använder deras Studio Manager, vilket jag aldrig gjort).</p>
+
+<p>Ska du bränna in texterna, använd ett typsnitt utan serifer (t.ex. Verdana), vit textfärg på svart bottenplatta. Du kan göra bottenplattan lite transparent, men inte för mycket.</p>
+
+<p>Titta på SVTs undertexter och prova dig fram vad gäller textens storlek och färg. Tänk dock på att inte göra den för liten, den ska gå att läsa även på en telefon.</p>
+
+<h3>9. 4k eller 1080</h3>
+<p>I vilket format ska du filma? Ibland finns inget val, beroende vilken app du filmar med. Men i mer avancerade appar och med kameror kan du ofta välja en rad inställningar, här är några av mina tips:</p>
+
+<p>Om din kamera eller telefon klarar av 4k så filma i 4k. Du kommer säkerligen inte behöva publicera i mer än 1080, men filmar du i 4k får du marginal i redigeringen. Du kan t.ex. filma lite vidare än du skulle annars och så kan du beskära (zooma in) vid redigering. En stor nackdel med 4k är att videofilerna tar upp mycket plats och blir tunga att jobba med. Så det kräver mer lagringsutrymme och snabbare dator eller telefon. Nyare iPhonemodeller kan filma i 4k både med den inbyggda kameraappen och andra appar som Filmic Pro.</p>
+
+<p>Som nämndes ovan så behöver du inte publicera i större format än 1080 (det som också kallas full HD). Det duger väl på alla sociala medier och på webben. Även om du kan publicera 4k på t.ex. YouTube finns det antagligen ingen bra anledning att göra det än i alla fall.</p>
+
+<p>Om du använder dator för redigering eller en app där du kan välja hur din färdiga video ska sparas är ett säkert val H.264 och MP4. Det är ett universellt format som ger bra kvalitet och fungerar i de flesta sammanhang.</p>
+
+<h3>10. Plattform</h3>
+
+<p>Till vilka plattformar ska du ladda upp din video? Till alla dina digitala kanaler, är det korta svaret.
+
+<p>Det något mer specifika svaret är att du bör ladda upp din video till de plattformar som ger dig bäst genomslag för din målgrupp och syftet med videon.</p>
+
+<p>Varje plattform kommer också med sina begränsningar. Video på Instagram bör vara (men behöver inte vara) kvadratisk och kan vara max en minut. På Twitter kan video vara max 2 minuter 20 sekunder.</p>
+
+<p>Så publicera direkt till varje plattform där du vill ha video. Alltså, ladda upp video till Facebook snarare än att ladda upp den till YouTube och länka till den videon på Facebook. Du bör alltså då ladda upp videon både till Facebook och YouTube. Det innebör också att du kommer behöva redigera om din video för publicering på olika plattformar.</p>
+
+<p>Nackdelen är att du sprider ut dina videovisningar, men fördelen med att videon visas upp olika sätt på olika plattformar överväger.</p>
+
+<h3>11. Livesändning</h3>
+
+<p>Livesändning är ett bra komplement till inspelad video. Tänk inte att det ska vara det ena eller det andra utan tänk att det ska vara en mix av de två.</p>
+
+<p>En livevideo kan vara effektiv alldeles före ett sammanträde, då man pratar om vad som ska avhandlas med fokus på speciellt viktiga frågor. Eller efter sammanträdet som en sammanfattning av hur det gick. Eller när det har hänt något speciellt som du vill uppmärksamma.</p>
+
+<p>Även om livevideo är mer spontan än inspelad video betyder det inte att du inte behöver tänka igenom livevideo innan sändning. Dra åtminstone upp stolpar på papper så du vet vad du ska fokusera på och få med i sändningen.</p>
+
+<p>En utmaning med livevideo är förstås att det kräver en bra internetuppkoppling. Wi-fi är att föredra men även en bra mobiluppkoppling duger.</p>
+
+<p>Ett praktiskt tips till dig om du ska sända live är att någon hjälper dig titta och lyssna på livesändningen så fort den går igång. Då kan du avgöra kvaliteten och om ljudet fungerar. Om något är fel eller kvaliteten riktigt dålig, avbryt så snart som möjligt och börja om.</p>
+
+<p>Vet du att du ska göra en livesändning i förväg så kan det vara en bra idé de att puffa för den så dina vänner och följare vet att den kommer. Det kan du göra genom ett inlägg på sociala medier, t.ex. ett evenemang på Facebook. Du får dock ingen direktlänk till sändningen förrän den har börjat. Men så snart du har länken, sprid den i dina kanaler. Här är det bra om du kan få hjälp av någon med det och filmandet.</p>
+
+<p>Med inspelad video ska du tänka att hålla videorna korta, gärna till 1-2 minuter max. Med livevideo, åtminstone på Facebook, är det snarare bättre om videon sträcker sig över längre tid. Anledningen till det är att när en livevideo kör igång så kommer dina vänner eller sidans följare få en notifikation om att videon har startat. En livevideo som sträcker sig över längre tid har alltså möjlighet att få in fler tittare.</p>
+
+<p>En livesändning på Facebook ligger kvar efter sändningen är över. Du kan alltså dela den för ökad spridning. Det går också att ladda ner livevideon och publicera den i andra kanaler.</p>
+
+<p>Tänk på att när du klickar på knappen för att starta en livesändning så kan det ta några sekunder innan appen börjar sända.</p>
+
+<p>En sista tanke. Det kan vara svårt att få press att komma till presskonferenser. Varför inte livesända presskonferensen? Det kan du göra oavsett om pressen kommer eller inte.</p>
+
+<h3>12. Komposition</h3>
+
+<p>Det finns mycket att säga om komposition och vad det betyder. Enkelt uttryckt är komposition hur du placerar bildelement inom bildens eller videons ram och hur de relaterar till varandra.</p>
+
+<p>På den här sidan tänker jag hålla mig till tredjedelsregeln. Tänk dig att du delar in bilden i tre lika delar vertikalt och horisontellt. Det som är viktigast ska placeras vid någon av skärningspunkterna: personens ansikte eller något annat intressant i bilden.</p>
+
+<p>Tänk också på vad som syns i bakgrunden. Även om bakgrunden är suddig, som jag skrev om ovan, bör t.ex. inte ett träd sticka upp ur huvudet på den som filmas.</p>
+
+<p><a href="https://www.videomaker.com/article/c02/18610-the-basic-rules-of-composition">Här är</a> en bra artikel som handlar om komposition och <a href="https://www.filmriot.com/blog/the-180-degree-line-and-shutter/">den här</a> handlar mer specifik om videos två 180-gradersregler.</p>
+
+<h3>13. Förhandsvisning</h3>
+
+<p>Förhandsvisningen är den bild som visas på en sida eller i ett flöde innan videon börjat spela. När du laddar upp din video till Facebook, YouTube eller annan plattform så kommer plattformen låta dig välja mellan ett antal stillbilder ur din video som förhandsvisningsbild. Det ger dig viss kontroll i alla fall. Men det går också att göra en egen bild och ladda upp. Gör en bild som är 1920x1080 pixlar och lägg till text, bilder och vad du nu vill ha. Hela poängen är att fånga uppmärksamhet när någon bläddrar i sitt flöde så de stannar och tittar på just din video.</p>
+
+<h3>14. Horisontellt eller vertikalt</h3>
+
+<p>Vertikalt eller horisontellt: Bör du filma liggande (horisontellt) eller stående (vertikalt)? Det finns nog inget definitivt svar på den frågan, till viss del är det upp till personlig smak. Men eftersom de allra flesta använder sina sociala medier på mobiltelefon finns en poäng med att filma vertikalt. När då en video dyker upp i flödet fyller den ut skärmen. En horisontell video sträcker sig visserligen också över skärmen, men den blir mycket lägre i höjd. Om du filmar en person (t.ex. dig själv) så kan personen fylla ut ramen mycket bättre i vertikalt format, tittaren kommer alltså närmare, vilket kan vara bra. Ett bra alternativ är då att göra din video kvadratisk, alltså 1x1. Då fyller den ut mer av skärmen plus att den fungerar också bra på t.ex. Instagram. Liggande format passar bra om du ska filma flera personer, t.ex. en intervju. Det blir svårt att få till det snyggt i stående format. Så du får variera lite utifrån situation.</p>
+
+<p>Speciellt med liggande format, tänk då på att inte placera dig själv mitt i bild. Filma gärna så du är lite till vänster eller höger i bild.</p>
+
+<h3>15. Övrigt</h3>
+
+<p>Om du vill föra över video från telefon till dator kan du göra det enklast genom att ladda upp videofilen till någon typ av molntjänst, som t.ex. Dropbox eller Google Drive. Med Android är det vanligt att du kan koppla ihop dator och telefon med en kabel och föra över filerna den vägen.</p>
+
+
+
+</div>
+        </div>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="../js/scripts.js"></script>
+    </body>
+</html>

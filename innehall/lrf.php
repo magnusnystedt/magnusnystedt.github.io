@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Magnus Nystedt - LRF-artiklar</title>
+        <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="../assets/favicon.ico" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="../css/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <!-- Responsive navbar-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container">
+                <a class="navbar-brand" href="https://magnusnystedt.se">Magnus Nystedt</a>
+
+            </div>
+        </nav>
+        <!-- Page content-->
+        <div class="container">
+            <div class="text-left mt-5">
+                <h1>LRF-artiklar</h1>
+                <p class="lead">Här samlar jag länkar till ett urval av artiklar jag skrivit och videor jag filmat och redigerat för LRFs digitala kanaler (nyast först). De allra flesta fotografier i artiklarna är också mina.</p>
+
+<h2>Videor</h2>
+
+<ul>
+	<li><a href="https://youtube.com/shorts/bfIV5sacKuk">Kampanjvideo (äganderätten)</a></li>
+	<li><a href="https://youtu.be/56zNCwy1luo">Erik drabbades av svår olycka</a></li>
+	<li><a href="https://youtu.be/RiRXBnKqNz8">Studiebesök på lantbruk</a></li>
+	<li><a href="https://youtu.be/-mp3rXpSIsE">Uppdatering om översvämningar</a></li>
+	<li><a href="https://youtube.com/shorts/BepqlhMFVQE?feature=share">Kortis för att uppmärksamma allemansrätten</a></li>
+
+<!-- Per grundlagskommitten -->
+		
+				
+	<li><a href="https://youtu.be/N2PXpXJfLbk">Studiebesök på lantbruk och biogasanläggning</a></li>
+	<li><a href="https://youtu.be/BXPng7aRsJQ">Förevisning av beredskapsutrustning för EU-toppar</a></li>
+	<li><a href="https://youtu.be/S1zaoOxUcok">Förevisning av beredskapsmateriel (gårdsnivå)</a></li>
+		
+	<li><a href="https://youtu.be/DFvJLW3RlB4">Värna åkermark</a></li>
+	<li><a href="https://youtu.be/KflaQPQRIPc">Livesändning på Facebook</a></li>
+	<li><a href="https://youtu.be/PeY7JYzKgzE">Intervju</a></li>
+</ul>
+
+<h2>LRF Dalarna</h2>
+<ul>
+
+<li><a href="https://www.lrf.se/nyheter/tre-av-lrfs-lokalavdelningar-i-sodra-dalarna-diskuterade-framtida-organisationsforandringar/">Tre av LRFs lokalavdelningar i södra Dalarna diskuterade framtida organisationsförändringar</a></li>
+<li><a href="https://www.lrf.se/nyheter/lrf-dalarna-antar-nya-stadgar-och-tar-ett-stort-kliv-mot-framtidens-folkrorelse/">LRF Dalarna antar nya stadgar och tar ett stort kliv mot framtidens folkrörelse</a></li>
+<li><a href="https://www.lrf.se/nyheter/lrf-rapporterar-fran-mittia-gard-och-skog-i-ljusdal/">LRF rapporterar från Mittia Gård och Skog i Ljusdal</a></li>
+<li><a href="https://www.lrf.se/nyheter/lrf-ungdomen-i-dalarna-och-gavleborg-besokte-vallens-gard-i-ljusdal/">LRF Ungdomen i Dalarna och Gävleborg besökte Vallens gård i Ljusdal</a></li>
+<li><a href="https://www.lrf.se/nyheter/lrf-by-arrangerade-valbesokt-traktorrejs-det-har-blivit-lite-av-en-kultgrej/">LRF By arrangerade välbesökt traktorrejs - ”Det har blivit lite av en kultgrej”</a></li>
+<li><a href="https://www.lrf.se/nyheter/lrf-i-borlange-det-sunda-bondfornuftet-maste-reagera-nar-bast-fore-datum-ar-passerat/">LRF i Borlänge: Det sunda bondförnuftet måste reagera när bäst före-datum är passerat</a></li>
+<li><a href="https://www.lrf.se/nyheter/granngardens-butik-i-vansbro-ateruppstar-som-bolist-tack-vare-lrfs-idoga-arbete/">Granngårdens butik i Vansbro återuppstår som Bolist tack vare LRFs idoga arbete</a></li>
+<li><a href="https://www.lrf.se/nyheter/anders-och-peter-westman-fran-toftbyn-fick-guldmedalj/">Anders och Peter Westman från Toftbyn fick guldmedalj</a></li>
+<li><a href="https://www.lrf.se/nyheter/rapport-fran-lrf-dalarnas-regionstamma-2024/">Rapport från LRF Dalarnas regionstämma 2024</a></li>
+<li><a href="https://www.lrf.se/nyheter/ett-ar-i-lrf-dalarnas-styrelse-hur-kanns-det-eva-akerman/">Ett år i LRF Dalarnas styrelse - hur känns det Eva Åkerman?</a></li>
+<li><a href="https://www.lrf.se/nyheter/framtidstro-praglade-kommungruppskonferens-i-lrf-mitt/">Framtidstro präglade kommungruppskonferens i LRF Mitt</a></li>
+<li><a href="https://www.lrf.se/nyheter/lrf-dalarna-valkomnar-lansstyrelsen-till-mjolkgard-i-stora-skedvi/">LRF Dalarna välkomnar Länsstyrelsen till mjölkgård i Stora Skedvi</a></li>
+<li><a href="https://www.lrf.se/nyheter/strutsuppfodare-i-borlange-ar-veckans-bonde/">Strutsuppfödare i Borlänge är veckans bonde</a></li>
+<li><a href="https://www.lrf.se/nyheter/politiker-besoker-gagnef-bostalle-potatis/">Politiker besöker Gagnef Boställe Potatis</a></li>
+<li><a href="https://www.lrf.se/nyheter/dalarnas-bonder-kan-skorda-trada-en-lattnad-i-torkan/">Dalarnas bönder kan skörda träda – en lättnad i torkan</a></li>
+<li><a href="https://www.lrf.se/nyheter/falu-kommuns-beslut-signalerar-att-man-inte-vill-ha-djur-pa-landsbygden/">Falu kommuns beslut signalerar att man inte vill ha djur på landsbygden</a></li>
+<li><a href="https://www.lrf.se/nyheter/livesandningar-under-landsbygdsveckan/">Livesändningar under Landsbygdsveckan</a></li>
+<li><a href="https://www.lrf.se/nyheter/motioner-fran-lrf-dalarna-gar-vidare-till-riksforbundsstamman/">Motioner från LRF Dalarna går vidare till riksförbundsstämman</a></li>
+<li><a href="https://www.lrf.se/nyheter/rapport-fran-lrf-dalarnas-regionforbundsstamma-2023/">Rapport från LRF Dalarnas regionförbundsstämma 2023</a></li>
+<!-- Debatt -->  
+<li><a href="https://www.lrf.se/nyheter/oppenhet-ar-inte-en-motsats-till-en-okad-inhemsk-produktion/">Debatt: Öppenhet är inte en motsats till en ökad inhemsk produktion</a></li>
+<li><a href="https://www.lrf.se/nyheter/aven-ola-vill-ata-sig-matt-tre-ganger-om-dagen/">Debatt: Även Ola vill äta sig mätt tre gånger om dagen</a></li>
+<li><a href="https://www.sodran.se/2023-12-17/valj-svenskt-till-jul">Debatt: Välj svenskt till julbordet</a></li>
+</ul>
+
+<h2>LRF Gävleborg</h2>
+<ul>
+<li><a href="https://www.lrf.se/nyheter/lrf-medlemmen-erik-tornfelt-efter-svara-olyckan-hela-vagen-har-jag-kant-ett-stod-fran-lrf/">LRF-medlemmen Erik Törnfelt efter svåra olyckan: Hela vägen har jag känt ett stöd från LRF</a></li>
+<li><a href="https://www.lrf.se/nyheter/bra-diskussion-om-aganderatt-med-socialdemokraterna-vid-skogsfika-i-gavleborg/">Bra diskussion om äganderätt med socialdemokraterna vid skogsfika i Gävleborg</a></li>
+<li><a href="https://www.lrf.se/nyheter/lrf-gavleborg-medarrangerade-studiebesok-pa-brorsans-lantbruk-i-holmsveden/">LRF Gävleborg medarrangerade studiebesök på Brorsans lantbruk i Holmsveden</a></li>
+<li><a href="https://www.lrf.se/nyheter/lrf-mitt-samlades-for-strategidag/">LRF Mitt samlades för strategidag</a></li>
+<li><a href="https://www.lrf.se/nyheter/lrf-gavleborg-antar-nya-stadgar-och-tar-ett-stort-kliv-mot-framtidens-folkrorelse/">LRF Gävleborg antar nya stadgar och tar ett stort kliv mot framtidens folkrörelse</a></li>
+<li><a href="https://www.lrf.se/nyheter/lrf-rapporterar-fran-mittia-gard-och-skog-i-ljusdal/">LRF rapporterar från Mittia Gård och Skog i Ljusdal</a></li>
+<li><a href="https://www.lrf.se/nyheter/lrf-ungdomen-i-dalarna-och-gavleborg-besokte-vallens-gard-i-ljusdal/">LRF Ungdomen i Dalarna och Gävleborg besökte Vallens gård i Ljusdal</a></li>
+<li><a href="https://www.lrf.se/nyheter/lrf-traffade-regionpolitiker-fran-gavleborg-ett-positivt-och-konstruktivt-mote/">LRF träffade regionpolitiker från Gävleborg: ”Ett positivt och konstruktivt möte”</a></li>
+<li><a href="https://www.lrf.se/nyheter/satsning-pa-ungdjursstall-i-bergsjo-jag-visste-att-jag-aldrig-kommer-flytta-harifran/">Satsning på ungdjursstall i Bergsjö: ”jag visste att jag aldrig kommer flytta härifrån”</a></li>
+<li><a href="https://www.lrf.se/nyheter/nybyggnation-for-mjolkkor-i-holmsveden-en-drom-som-vi-uppfyller/">Nybyggnation för mjölkkor i Holmsveden: ”en dröm som vi uppfyller”</a></li>
+<li><a href="https://www.lrf.se/nyheter/ungt-par-storsatsar-pa-ny-mjolkgard-i-soderhamn/">Ungt par storsatsar på ny mjölkgård i Söderhamn</a></li>
+<li><a href="https://www.lrf.se/nyheter/lrf-gavleborgs-vice-ordforande-utmaningar-med-att-synliggora-det-vi-gor/">LRF Gävleborgs vice ordförande: ”Utmaningar med att synliggöra det vi gör”</a></li>
+<li><a href="https://www.lrf.se/nyheter/stort-intresse-for-livsmedelsberedskap-i-soderhamn/">Stort intresse för livsmedelsberedskap i Söderhamn</a></li>
+<li><a href="https://www.lrf.se/nyheter/vallens-gard-i-ljusdal-expanderar-med-fler-mjolkkor-och-biogas/">Vallens gård i Ljusdal expanderar med fler mjölkkor och biogas</a></li>
+<li><a href="https://www.lrf.se/nyheter/bjorsveds-lantbruk-i-storvik-ar-bast-i-sverige-pa-att-leverera-ekologisk-mjolk/">Björsveds lantbruk i Storvik är bäst i Sverige på att leverera ekologisk mjölk</a></li>
+<li><a href="https://www.lrf.se/nyheter/lrf-motion-bidrar-till-sankt-grans-for-aterbetalning-av-punktskatt-pa-diesel/">LRF-motion bidrar till sänkt gräns för återbetalning av punktskatt på diesel</a></li>
+<li><a href="https://www.lrf.se/nyheter/lrf-gavleborg-jordbrukets-grona-omstallning-kan-kosta-20-miljarder/">LRF Gävleborg: jordbrukets gröna omställning kan kosta 20 miljarder om året</a></li>
+<li><a href="https://www.lrf.se/nyheter/tommy-och-robert-johnson-i-ljusdal-ar-arets-notkottsforetagare-i-gavleborg/">Tommy och Robert Johnson i Ljusdal är Årets nötköttsföretagare i Gävleborg</a></li>
+<li><a href="https://www.lrf.se/nyheter/lrf-och-lansstyrelsen-tar-med-politiker-pa-bussresa-i-gavleborg/">LRF och Länsstyrelsen tar med politiker på bussresa i Gävleborg</a></li>
+<li><a href="https://www.lrf.se/nyheter/lisa-vallerang-tanker-ta-over-sina-foraldrars-mjolkgard/">Lisa Valleräng tänker ta över sina föräldrars mjölkgård</a></li>
+<li><a href="https://www.lrf.se/nyheter/livesandningar-under-landsbygdsveckan/">Livesändningar under Landsbygdsveckan</a></li>
+<li><a href="https://www.lrf.se/nyheter/halla-dar-per-westberg-och-johan-persson-nyvalda-ledamoter-i-lrf-gavleborgs-styrelse/">Hallå där Per Westberg och Johan Persson, nyvalda ledamöter i LRF Gävleborgs styrelse</a></li>
+<li><a href="https://www.lrf.se/nyheter/motioner-fran-lrf-gavleborg-gar-vidare-till-riksforbundsstamman/">Motioner från LRF Gävleborg går vidare till riksförbundsstämman</a></li>
+<li><a href="https://www.lrf.se/nyheter/rapport-fran-lrf-gavleborgs-regionforbundsstamma-2023/">Rapport från LRF Gävleborgs regionförbundsstämma 2023</a></li>
+<!-- Debatt -->  
+<li><a href="https://www.ht.se/2023-05-03/stark-svensk-livsmedelsproduktion-genom-hela-kedjan">Debatt: Stärk svensk livsmedelsproduktion genom hela kedjan</a></li>
+</ul>
+
+<h2>LRF Mälardalen</h2>
+<ul>
+<li><a href="https://www.lrf.se/nyheter/aterbesok-vid-oversvamningarna-runt-tamnaren-manga-kunde-borja-odla/">Återbesök vid översvämningarna runt Tämnaren: "många kunde börja odla"</a></li>
+<li><a href="https://www.lrf.se/nyheter/knivstaortens-lrf-avdelning-valjer-vag-framat-bildar-lokalgrupp/">Knivstaortens LRF-avdelning väljer väg framåt: bildar lokalgrupp</a></li>
+<li><a href="https://www.lrf.se/nyheter/lrf-malardalen-deltar-i-traff-med-inriktning-biogasproduktion-pa-mycklinge-gard-i-vasteras/">LRF Mälardalen deltar i träff med inriktning biogasproduktion på Mycklinge gård i Västerås</a></li>
+<li><a href="https://www.lrf.se/nyheter/lrf-mitt-samlades-for-strategidag/">LRF Mitt samlades för strategidag</a></li>
+<li><a href="https://www.lrf.se/nyheter/energidag-i-uppsala-med-fokus-pa-fossilfria-fordon-for-jord-och-skogsbruk/">Energidag i Uppsala med fokus på fossilfria fordon för jord- och skogsbruk</a></li>
+<li><a href="https://www.lrf.se/nyheter/lrf-bidrar-till-jordbruksmarksstrategi-i-norrtalje-vi-kommer-fortsattta-vara-lite-blaslampa-pa-dem/">LRF bidrar till jordbruksmarksstrategi i Norrtälje: "vi kommer fortsättta vara lite blåslampa på dem"</a></li>
+<li><a href="https://www.lrf.se/nyheter/lrf-malardalens-ordforande-kommenterar-utredningen-om-en-konkurrenskraftig-animalieproduktion/">LRF Mälardalens ordförande kommenterar utredningen om en konkurrenskraftig animalieproduktion</a></li>
+<li><a href="https://www.lrf.se/nyheter/lrf-malardalen-valkomnade-bonder-fran-schweiz/">LRF Mälardalen välkomnade bönder från Schweiz</a></li>
+<li><a href="https://www.lrf.se/nyheter/lrf-traffade-regionpolitiker-fran-gavleborg-ett-positivt-och-konstruktivt-mote/">LRF träffade regionpolitiker från Gävleborg: ”Ett positivt och konstruktivt möte”</a></li>
+<li><a href="https://www.lrf.se/nyheter/tierpsbygdens-lrf-ar-med-och-startar-skogsbrandvarn-det-ar-skitenkelt-faktiskt/">Tierpsbygdens LRF är med och startar skogsbrandvärn: ”Det är skitenkelt faktiskt”</a></li>
+<li><a href="https://www.lrf.se/nyheter/lrf-malardalen-samarrangerade-lyckat-besok-utanfor-vasteras-med-fokus-pa-solelproduktion/">LRF Mälardalen samarrangerade lyckat besök utanför Västerås med fokus på solelproduktion</a></li>
+<li><a href="https://www.lrf.se/nyheter/spannmalsbonden-hakan-johansson-i-sala-infor-skorden-far-vi-ett-normalar-maste-vi-vara-jattenojda">Spannmålsbonden Håkan Johansson i Sala inför skörden: ”får vi ett normalår måste vi vara jättenöjda”</a></li>
+<li><a href="https://www.lrf.se/nyheter/lrf-ungdomen-uppsala-och-vastmanland-arrangerade-dikeskvall/">LRF Ungdomen Uppsala och Västmanland arrangerade dikeskväll</a></li>
+<li><a href="https://www.lrf.se/nyheter/lrf-malardalen-valkomnade-tyska-studenter/">LRF Mälardalen välkomnade tyska studenter</a></li>
+<li><a href="https://www.lrf.se/nyheter/nynas-gard-satsar-pa-biogas-agarna-tanker-langsiktigt/">Nynäs gård satsar på biogas: ”ägarna tänker långsiktigt”</a></li>
+<li><a href="https://www.lrf.se/nyheter/lrf-heby-kommun-och-lansstyrelsen-pa-faltvandring-vid-oversvamningarna-runt-tamnaren/">LRF, Heby kommun och länsstyrelsen på fältvandring vid översvämningarna runt Tämnaren</a></li>
+<li><a href="https://www.lrf.se/nyheter/kandidat-till-europaparlamentet-besokte-gard-i-nynashamn/">Kandidat till Europaparlamentet besökte gård i Nynäshamn</a></li>
+<li><a href="https://www.lrf.se/nyheter/oversvamningar-i-heby-och-tierp-katastrof/">Översvämningar i Heby och Tierp: ”Katastrof”</a></li>
+<li><a href="https://www.lrf.se/nyheter/lrfs-kommungrupp-i-enkoping-valkomnade-landsbygdsminister-peter-kullgren/">LRFs kommungrupp i Enköping välkomnade landsbygdsminister Peter Kullgren</a></li>
+<li><a href="https://www.lrf.se/nyheter/hur-solrosor-blev-stod-till-lantbruksstuderande-i-ukraina/">Hur solrosor blev stöd till lantbruksstuderande i Ukraina</a></li>
+<li><a href="https://www.lrf.se/nyheter/tomas-olsson-om-forsta-aret-som-lrf-malardalens-ordforande-utmanande-och-roligt/">Tomas Olsson om första året som LRF Mälardalens ordförande: ”Utmanande och roligt”</a></li>
+<li><a href="https://www.lrf.se/nyheter/lrf-malardalens-vice-ordforande-jag-ska-ta-min-plats/">LRF Mälardalens vice ordförande: ”Jag ska ta min plats”</a></li>
+<li><a href="https://www.lrf.se/nyheter/rapport-fran-lrf-malardalens-regionstamma-2024/">Rapport från LRF Mälardalens regionstämma 2024</a></li>
+<li><a href="https://www.lrf.se/nyheter/tierpsbygdens-lrf-avdelning-arrangerade-konstruktivt-vattenmote/">Tierpsbygdens LRF-avdelning arrangerade konstruktivt vattenmöte</a></li>
+<li><a href="https://www.lrf.se/nyheter/oppet-brev-angaende-forsvarsberedningens-delrapport/">Öppet brev angående Försvarsberedningens delrapport</a></li>
+<li><a href="https://www.lrf.se/nyheter/grisforetagaren-som-gjort-storst-avtryck-i-de-grona-naringarna/">Grisföretagaren som gjort störst avtryck i de gröna näringarna</a></li>
+<li><a href="https://www.lrf.se/nyheter/forsaljning-av-solrosor-drog-in-nastan-170-000-kr-skickas-till-lantbruksuniversitet-i-ukraina/">Försäljning av solrosor drog in nästan 170 000 kr – skickas till lantbruksuniversitet i Ukraina</a></li>
+<li><a href="https://www.lrf.se/nyheter/grisgardar-stangslar-in-sina-stallar/">Grisgårdar stängslar in sina stallar</a></li>
+<li><a href="https://www.lrf.se/nyheter/framtidstro-praglade-kommungruppskonferens-i-lrf-mitt/">Framtidstro präglade kommungruppskonferens i LRF Mitt</a></li>
+<li><a href="https://www.lrf.se/nyheter/allemansrattens-rattigheter-och-skyldigheter/">Allemansrättens rättigheter och skyldigheter</a></li>
+<li><a href="https://www.lrf.se/nyheter/bonde-och-deltidsbrandman-hjalper-till-vid-trafikolycka/">Bonde och deltidsbrandman hjälper till vid trafikolycka</a></li>
+<li><a href="https://www.lrf.se/nyheter/nu-far-det-racka-lrf-malardalens-ordforande-om-2023/">"Nu får det räcka” - LRF Mälardalens ordförande om 2023</a></li>
+<li><a href="https://www.lrf.se/nyheter/arsmote-for-lrfs-lokalavdelning-skultuna-haraker-romfartuna-i-en-vintrig-bygdegard/">Årsmöte för LRFs lokalavdelning Skultuna-Haraker-Romfartuna i en vintrig bygdegård</a></li>
+<li><a href="https://www.lrf.se/nyheter/politiker-pa-gardsbesok-utanfor-vasteras/">Politiker på gårdsbesök utanför Västerås</a></li>
+<li><a href="https://www.lrf.se/nyheter/rundtur-med-politiker-i-sala-arrangerad-av-lrfs-kommungrupp/">Rundtur med politiker i Sala arrangerad av LRFs kommungrupp</a></li>
+<li><a href="https://www.lrf.se/nyheter/regelsafari-utanfor-enkoping-uppmarksammar-regelbordan-for-bonder/">Regelsafari utanför Enköping uppmärksammar regelbördan för bönder</a></li>
+<li><a href="https://www.lrf.se/nyheter/motion-fran-knivstaortens-lrf-avdelning-far-svar-fran-lansstyrelser/">Motion från Knivstaortens LRF-avdelning får svar från länsstyrelser</a></li>
+<li><a href="https://www.lrf.se/nyheter/oversvamningarna-paverkar-livsmedelsforsorjningen/">Översvämningarna påverkar livsmedelsförsörjningen</a></li>
+<li><a href="https://www.lrf.se/nyheter/efterlyst-uppmarksammar-gps-stolder-inom-lantbruket/">Efterlyst uppmärksammar GPS-stölder inom lantbruket</a></li>
+<li><a href="https://www.lrf.se/nyheter/bergslagsbygden-lrf-avdelning-hade-styrelsemote-med-fokus-pa-afrikansk-svinpest/">Bergslagsbygden LRF-avdelning hade styrelsemöte med fokus på afrikansk svinpest</a></li>
+<li><a href="https://www.lrf.se/nyheter/politiker-pa-gardsbesok-i-nynashamn/">Politiker på gårdsbesök i Nynäshamn</a></li>
+<li><a href="https://www.lrf.se/nyheter/landsbygdsminister-peter-kullgren-besokte-vasteras-och-sala/">Landsbygdsminister Peter Kullgren besökte Västerås och Sala</a></li>
+<li><a href="https://www.lrf.se/nyheter/centerpartiets-partiledare-besokte-gard-i-sala/">Centerpartiets partiledare besökte gård i Sala</a></li>
+<li><a href="https://www.lrf.se/nyheter/palle-borgstrom-besokte-sala-for-att-se-effekterna-av-oversvamningarna/">Palle Borgström besökte Sala för att se effekterna av översvämningarna</a></li>
+<li><a href="https://www.lrf.se/nyheter/oversvamningar-i-sala-det-har-forbattrar-inte-sinnet-eller-nagonting/">Översvämningar i Sala: det här förbättrar inte sinnet eller någonting</a></li>
+<li><a href="https://www.lrf.se/nyheter/lrf-malardalen-forevisar-utrustning-for-slackning-av-skogsbrander-for-eu-politiker/">LRF Mälardalen förevisar utrustning för släckning av skogsbränder för EU-politiker</a></li>
+<li><a href="https://www.lrf.se/nyheter/gront-naringslivsindex-andra-kvartalet-2023-lantbrukare-drabbas-hart-av-den-hoga-rantan/">Grönt näringslivsindex andra kvartalet 2023: Lantbrukare drabbas hårt av den höga räntan</a></li>
+<li><a href="https://www.lrf.se/nyheter/langsiktighet-arlighet-och-oppenhet-ar-ledord-for-broderna-i-vasteras/">Långsiktighet, ärlighet och öppenhet är ledord för bröderna i Västerås</a></li>
+<li><a href="https://www.lrf.se/nyheter/livesandningar-under-landsbygdsveckan/">Livesändningar under Landsbygdsveckan</a></li>
+<li><a href="https://www.lrf.se/nyheter/motioner-fran-lrf-malardalen-gar-vidare-till-riksforbundsstamman/">Motioner från LRF Mälardalen går vidare till riksförbundsstämman</a></li>
+<li><a href="https://www.lrf.se/nyheter/guldmedaljor-producerar-man-ett-livsmedel-som-mjolk-vill-man-att-det-ska-vara-riktigt-bra/">Guldmedaljör: Producerar man ett livsmedel som mjölk vill man att det ska vara riktigt bra</a></li>
+<li><a href="https://www.lrf.se/nyheter/guldmedaljor-jag-vill-leverera-en-bra-vara-till-konsumenterna/">Guldmedaljör: Jag vill leverera en bra vara till konsumenterna</a></li>
+<li><a href="https://www.lrf.se/nyheter/foretagarna-i-det-grona-naringslivet-i-malardalen-har-fortsatt-dyster-syn-pa-konjunkturen/">Företagarna i det gröna näringslivet i Mälardalen har fortsatt dyster syn på konjunkturen</a></li>
+<li><a href="https://www.lrf.se/nyheter/rapport-fran-lrf-malardalens-regionforbundsstamma-2023/">Rapport från LRF Mälardalens regionförbundsstämma 2023</a></li>
+<li><a href="https://www.lrf.se/nyheter/vallgrodor-ar-ryggraden-i-vara-odlingar/">Vallgrödor är ryggraden i våra odlingar</a></li>
+
+<!-- Debatt -->    
+<li><a href="https://www.lrf.se/nyheter/lrf-ungdomen-vi-maste-vaga-prata-om-psykisk-ohalsa/">Debatt: LRF Ungdomen: Vi måste våga prata om psykisk ohälsa</a></li>
+<li><a href="https://www.lrf.se/nyheter/kopings-kommun-sparar-pengar-pa-skolmjolken-kommer-kosta-mer-an-det-smakar/">Debatt: Köpings kommun sparar pengar på skolmjölken - kommer kosta mer än det smakar</a></li>
+<li><a href="https://www.lrf.se/nyheter/bra-att-skolmjolken-blir-kvar-i-koping/">Debatt: Bra att skolmjölken blir kvar i Köping</a></li>
+<li><a href="https://www.lrf.se/nyheter/debattartikel-varm-sommar-da-forsvinner-brandbilen/">Debattartikel: Varm sommar – då försvinner brandbilen</a></li>
+<LI><A HREF="https://www.lrf.se/nyheter/lagg-inte-ned-skultuna-brandstation/">Debatt: Lägg inte ned Skultuna brandstation</a></li>
+</ul>
+
+<?php echo "Uppdaterad: " . date ("F d Y H:i:s.", filemtime(basename(__FILE__)));?>
+            </div>
+        </div>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="../js/scripts.js"></script>
+    </body>
+</html>

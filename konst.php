@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Magnus Nystedt - Konst måste också få vara obehaglig</title>
+        <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <!-- Responsive navbar-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container">
+                <a class="navbar-brand" href="https://magnusnystedt.se">Magnus Nystedt</a>
+
+            </div>
+        </nav>
+        <!-- Page content-->
+        <div class="container">
+            <div class="text-left mt-5">
+                <h1>Konst måste också få vara obehaglig</h1>
+                <p class="lead">En text jag skrev för några år sedan</p>
+
+<p>Nyligen såg jag serien "Nazismens födelse" på SVT Play. När du läser det här kanske den inte finns kvar längre, men se serien om du har möjlighet. Speciellt ett avsnitt fick mig att tänka på det som händer i vårt land i nutid och det var avsnittet som handlar om hur nazisterna i Tredje riket använde en total kontroll över konsten och kulturen i Tyskland som en del av sitt totalitära styre av landet.</p>
+
+<p>Det är väl känt att Nazisterna tidigt började utöva kontroll över media och kultur. När de 1930 kom till makten i delstaten Thüringen blev Wilhelm Frick den första nationalsocialistiska ministern i en delstat. Han beslutade att införa omfattande censur av vissa tidningar och filmer, en föraning av vad som skulle komma några år senare för hela landet. När nazisterna 1933 hade tagit makten på nationell nivå tvingades alla kulturutövare registrera sig med den statliga Rikskulturkammaren ("Reichskulturkammer"). De första åren fick vem som helst gå med i Reichskulturkammer, men från 1935 uteslöts alla som inte ansågs acceptabla. Som i övrigt i det tyska samhället uteslöts judar, kommunister, homosexuella m.fl. från att utöva konst. I praktiken tog propagandaminister Joseph Goebbels total kontroll över det tyska kulturlivet, med syfte att likrikta nazisternas kulturpolitik ("gleichschaltung"). Att kontrollera konsten och kulturen blev en viktig del i nazisternas propagandaapparat. Goebbels lär ha sagt: "Propaganda är en konst. Propagandan har bara ett mål: att erövra massorna, att vinna människorna så för en idé att de inte längre kan släppa den."</p>
+
+<p>Nazisterna byggde också en konsthall i München (”Haus der Deutschen kunst"), som ytterligare ett sätt att kontrollera konsten. Där visades acceptabel konst upp. Framförallt var det figurativ, klassisk konst. Besökarna kunde se tavlor med pittoreska landskapsvyer och statyer av starka, nakna män. Samtidigt sattes en vandringsutställning upp som runt om i Tyskland visade upp typer av konst som nazisterna ansåg urartad eller degenererad ("entartete kunst"). Konstnärer som nazisterna pekar ut i utställningen inkluderar Marc Chagall, Paul Klee, Piet Mondrian och många andra. All modern konst var för nazisterna som ett rött skynke och skulle utrotas.</p>
+
+<p>Var är parallellerna till Sverige idag? Sverigedemokraterna (SD) skriver i sitt valmanifest 2018: "Vår vision är att den svenska kulturen ska erkännas och blomstra istället för att kvävas av vänsterliberala våta filtar eller bildningsförakt." De första tecknen på vad det skulle kunna innebära i praktiken ser vi i SD-ledda Sölvesborg. Där har ett förslag klubbats igenom som innebär att offentlig konst i kommunen ska vara ”klassisk och tidlös” och att ”utmanande samtidskonst” ska stoppas. Det känns otäckt bekant.</p>
+
+<p>Rolf Hans Berg (SD), ordförande för Fritids- och kulturnämnden i Sölvesborg, har sagt till SVT:s Kulturnyheterna: "Vi kommer köpa in sådan konst som tilltalar det stora flertalet medborgare". Samtidigt säger Rolf Hans Berg: "Vi lägger oss inte i vad som är bra eller dålig konst." Men det är precis det han och SD gör, lägger sig i vad som är bra eller dålig konst.</p>
+
+<p>Det är en farlig utveckling, för jag menar att politiker, oavsett parti, har inget att göra med att definiera vad som är bra eller dålig konst eller kultur. Politiker ska på sin höjd skapa förutsättningar för utövande av konst i olika former, men sen lägga sig i så lite som möjligt. Att vissa verkar förespråka att vi idag ska härma hur nazisterna styrde konsten på 1930- och 40-talen är skrämmande.</p>
+
+<p>Jag räknar mig inte till någon intellektuell kulturelit, men onekligen oroas jag av den utveckling jag uppfattar smyger sig på oss sakta men säkert. Liksom politiker ska hålla sig borta från det, ska jag inte ge mig in i en debatt om vad som är bra eller dålig konst. Men C. Lewis Hind var nog något på spåren i början av 1900-talet. Han skrev: ”Expression, not beauty, is the aim of art.” Man kan tycka att viss konst är dålig, ointressant och kanske till och med stötande och äcklig. Men jag menar att det är en del av vad konst finns till för. Konst kan vara något som du tycker är snyggt att titta på, något som du tycker är vackert, något som får dig att må bra. Men konst kan ibland också vara obehaglig, och så ska det vara.</p>
+
+<?php echo "Uppdaterad: " . date ("F d Y H:i:s.", filemtime(basename(__FILE__)));?>
+            </div>
+        </div>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>

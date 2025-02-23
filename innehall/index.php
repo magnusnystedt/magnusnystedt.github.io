@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Magnus Nystedt - Innehållsproduktion</title>
+        <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="../assets/favicon.ico" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="../css/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <!-- Responsive navbar-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container">
+                <a class="navbar-brand" href="https://magnusnystedt.se">Magnus Nystedt</a>
+
+            </div>
+        </nav>
+        <!-- Page content-->
+        <div class="container">
+            <div class="text-left mt-5">
+                <h1>Innehållsproduktion</h1>
+                <p class="lead">Här har jag samlat exempel på innehåll jag har producerat. Sidan bör anpassa sig för dator, telefon och surfplatta. När du spelar upp en video, klicka gärna på ikonen för fullskärm så får du se videon i större storlek.</p>
+
+<h2>Text</h2>
+<ul>
+<li><a href="https://magnusnystedt.se/innehall/lrf.php">Här finns länkar till ett urval av videor och webbartiklar jag skapat för LRF</a></li>	
+<li><a href="https://magnusnystedt.se/kyrkan.php">Här finns länkar till debattartiklar/insändare jag skrivit som del av mitt engagemang i Svenska kyrkan</a></li>
+<li>Året på gården var en artikelserie publicerad 2018-2019 på nu nedlagda Västmanlands Nyheters webbplats. Här har jag samlat alla artiklar med bilder som PDF-filer. Du kan hitta hela serien som pdf-filer <a href="https://drive.proton.me/urls/PRCPPJZTQ0#zc2uFpR7OZTM">här</a>.</li>
+<li><a href="https://royal.pingdom.com/website-swedes-aftonbladet/">Intervju: The technology behind the website that 30% of Swedes visit every day</li>
+<li><a href="https://royal.pingdom.com/shootitlive-kick-ass-demo/">Intevju: How Shootitlive went from kick-ass demo to international breakthrough</a></li>
+<li><a href="https://www.pcworld.com/article/207256/uae_will_allow_blackberry_services_past_deadline.html">Nyhet: UAE Will Allow Blackberry Services Past Deadline</a></li>
+<li><a href="https://www.khaleejtimes.com/search?q=nystedt&daterange=&type=&sort=">Artiklar jag skrev för Khaleej Times</a></li>
+<li><a href="https://www.thenational.ae/business/giant-steps-out-of-shadows-1.436190">Feature: Giant steps out of shadows</a></li>
+<li><a href="https://issuu.com/cpiconsumertech">Tidningar (layout, foton och text): PCWorld ME, MacWorld ME och GameWorld ME</a></li>
+<li><a href="https://www.dagenssamhalle.se/debatt/vi-tar-fajten-biblioteken-30232">Debatt: Vi tar fajten för biblioteken</a></li>
+<a href="https://www.dagenssamhalle.se/debatt/c-kampen-klimatet-maste-borja-pa-hemmaplan-31579">Debatt: Kampen för klimatet måste börja på hemmaplan</a></li>
+<a href="https://magnusnystedt.se/konst.html">Debattartikel: Konsten måste också få vara obehaglig</a></li>
+<li><a href="https://www.dagenssamhalle.se/debatt/missbruk-en-sjukdom-som-ska-behandlas-av-varden-30348">Debatt: Missbruk en sjukdom som ska behandlas av vården</a></li>
+
+<li><a href="https://www.salaallehanda.com/artikel/c-sagar-nya-forslaget-om-kilometerskatten-1">Debatt: C sågar nya förslaget om kilometerskatten</a></li>
+
+<li><a href="https://www.bblat.se/2017-07-12/c-rut-avdraget-maste-utvecklas">Debatt: Rut-avdraget måste utvecklas</a></li>
+<li><a href="https://www.centerpartiet.se/lokal/vastmanland/vasteras/startsida/nyheter/nyheter/2018-09-04-okad-trygghet-i-hela-vasteras-kommun">Debatt: Ökad trygghet i hela Västerås kommun</a></li>
+
+<li><a href="https://www.bblat.se/2016-12-01/skrota-kilometerskatten-omedelbart">Debatt: Skrota kilometerskatten omedelbart</a></li>
+
+<li><a href="https://www.centerpartiet.se/lokal/vastmanland/vasteras/startsida/nyheter/nyheter/2016-11-08-5-miljarder-i-hojd-skatt-med-forslag-om-312-regler">Pressmeddelande: 5 miljarder i höjd skatt med förslag om 3:12-regler</a></li>
+
+<li><a href="video.php">Instruktioner: Tips om video</a></li>
+</ul>
+<h2>Podd och radio</h2>
+<ul>
+<li><a href="http://anchor.fm/viksang">Jag producerade Viksängspodden</a></li>
+<li><a href="https://anchor.fm/centerpodden">Jag producerade Centerpodden</a></li>
+<li><a href="https://anchor.fm/centerpartiet-vasteras">Jag producerade Centerpartiet i Västerås podd</a></li>
+<li><a href="https://www.dropbox.com/scl/fo/k4su0sf9m4842rh4zwqfk/h?rlkey=ocroqxz81di6qx1sj5oz3ga7v&dl=0">Här finns en rad podd- och radioinslag från min tid i Dubai</a></li>
+</ul>
+
+<h2>Foto och grafik</h2>
+<ul>
+<li><a href="https://www.vlt.se/2022-05-07/darfor-lockar-hemvarnet-allt-fler--bade-vanliga-vasterasare-och-kandisar">Mina fotografier i en VLT-artikel om Hemvärnet</a></li>
+<li><a href="https://drive.proton.me/urls/YFABH81GEG#4kj02Neh0CAi">Fotografier från valrörelsen 2022</a></li>
+<li>Jag skapade all grafik för Centerpartiet i Västerås i valen 2018 och 2019, se <a href="https://www.centerpartiet.se/lokal/vastmanland/vasteras/startsida/nyheter/nyheter/2018-08-09-lokala-valaffischer">exempel här</a>
+
+<li><a href="waynes.png">
+Fotografi för annons för Waynes Coffe</a></li>
+
+<li><a href="https://www.centerpartiet.se/lokal/vastmanland/vasteras/startsida/nyheter/nyheter/2018-08-29-annie-loof-besokte-vasteras">Ett exempel på mina fotografier</a></li>
+
+<li><a href="https://drive.proton.me/urls/JXYVBJC9N0#202LPHeQsXfn">Hemvärnets övning Geltic Bear 2022</a></li>
+
+<li><a href="https://drive.proton.me/urls/GNPYC75W5R#VeuRClVzJfaM">Introduktion av nya hemvärnssoldater 2022</a></li>
+
+<li>Två av mina foton som spreds runt världen för man trodde det var den då icke ännu släppta Apple iPad: <a href="acer.jpg">Acer</a> och <a href="nvidia.jpg">Nvidia</a></li>
+<li><a href="https://www.centerpartiet.se/lokal/vastmanland/vasteras/startsida/nyheter/nyheter/2017-07-06-bilder-fran-almedalen-2017">Bilder från Almedalen 2017</a></li>
+<li><a href="https://www.centerpartiet.se/lokal/vastmanland/vasteras/startsida/nyheter/nyheter/2017-07-06-bilder-fran-brunnby-lantbrukardagar-2017">Bilder från Brunnby Lantbrukardagar 2017</a></li>
+<li><a href="https://www.centerpartiet.se/lokal/vastmanland/vasteras/startsida/nyheter/nyheter/2017-07-01-pride-i-vasteras-dag-3---paraden">Bilder från Pride 2017</a></li>
+<li><a href="https://www.centerpartiet.se/lokal/vastmanland/vasteras/startsida/nyheter/nyheter/2017-04-24-bilder-fran-per-aslings-besok">Bilder från Per Åslings besök i Västmanland</a></li>
+<li><a href="https://www.centerpartiet.se/lokal/vastmanland/vasteras/startsida/nyheter/nyheter/2017-04-09-vi-halsar-pa-hos-ingrid-och-per-och-deras-far">Bilder: Vi hälsar på hos Ingrid och Per och deras får</a></li>
+<li><a href="https://www.centerpartiet.se/lokal/vastmanland/vasteras/startsida/nyheter/nyheter/2017-03-03-annie-loof-besokte-vasteras---bilder">Annie Lööf besökte Västerås - bilder</a></li>
+</ul>
+
+<h2>Studier</h2>
+<p>Jag har studerat till en master i konstvetenskap och läser vidare främst inom fotografi. <a href="https://magnusnystedt.se/studier.php">Här hittar</a> du mina uppsatser och några av mina inlämnade uppgifter.</p>
+<h2>Video</h2>
+
+<p>Varje länk går till Youtube. Videor skapade för LRF finns <a href="lrf.php">här</a>.</p>
+<ul>
+
+
+<li><a href="https://www.youtube.com/watch?v=TxVDs_qprDk">Politisk kampanjvideo (biografannons)</a></li>
+<li><a href="https://www.youtube.com/watch?v=KQSifwueKGc">Politisk kampanjvideo</a></li>
+<li><a href="https://www.youtube.com/watch?v=xNnDOPel3wo">YouTube-annons</a></li>
+<li><a href="https://www.youtube.com/watch?v=3PGIpucqxUY">Intervju för Hemvärnet</a></li>
+<li><a href="https://www.youtube.com/watch?v=IZzx0NIv5_Y">Valfilm</a></li>
+<li><a href="https://www.youtube.com/watch?v=tSNAV0aGZrI">Porträtt</a></li>
+<li><a href="https://youtu.be/SksuFTRE2Rw">Kampanjvideo</a></li>
+<li><a href="https://www.youtube.com/watch?v=zJMsEMhk4Nk">Provar ett nytt format</a></li>
+<li><a href="https://youtu.be/nH7W_r-Uvqw">Uppmärksammar en lokal företagare</a></li>
+<li><a href="https://youtu.be/I4utOvM3ScA">Säkerheten på väg 56 mellan Sala och Västerås</a></li>
+<li><a href="https://www.youtube.com/watch?v=PplvUBf9ooM">Lyfter en aktuell fråga</a></li>
+<li><a href="https://www.youtube.com/watch?v=_rMgFZ69Thg">Provar ett nytt format</a></li>
+<li><a href="https://www.youtube.com/watch?v=m5G176ZBbs4">Varför det är viktigt rösta (vi gjorde den här videon på sex olika språk)</a></li>
+<li><a href="https://www.youtube.com/watch?v=Ypp7oUlsAf4">Bildspel från kampanjaktivitet</a></li>
+<li><a href="https://www.youtube.com/watch?v=Sfbbec1MPsI">Studiebesök</a></li>
+<li><a href="https://www.youtube.com/watch?v=il7EahAbfX4">Bildspel</a></li>
+<li><a href="https://www.youtube.com/watch?v=geapcPrupdM">En kampanjfilm</a></li>
+<li><a href="https://www.youtube.com/watch?v=ORJpvLci3h42">Film med flertal personer</a></li>
+<li><a href="https://www.youtube.com/watch?v=1EQzdYh5wgY">Kampanjfilm</a></li>
+<li><a href="https://www.youtube.com/watch?v=TyG2gQWGCLA">Studiebesök</a></li>
+<li><a href="https://www.youtube.com/watch?v=4ZS52CaXjoc">Uppmärksammar en viktig fråga</a></li>
+<li><a href="https://www.youtube.com/watch?v=UAmNelInwXA">Kampanjfilm i kyrkovalet</a></li>
+<li><a href="https://www.youtube.com/watch?v=C36nWoiykhU">Studiebesök</a></li>
+<li><a href="https://www.youtube.com/watch?v=PhTtQC8TZ_c">Intervju</a></li>
+</ul>
+<?php echo "Uppdaterad: " . date ("F d Y H:i:s.", filemtime(basename(__FILE__)));?>
+</div>
+        </div>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="../js/scripts.js"></script>
+    </body>
+</html>

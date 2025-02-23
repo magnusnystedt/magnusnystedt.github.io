@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Magnus Nystedt - Vill du ha din kyrka kvar? Gå till gudstjänst!</title>
+        <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <!-- Responsive navbar-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container">
+                <a class="navbar-brand" href="https://magnusnystedt.se">Magnus Nystedt</a>
+
+            </div>
+        </nav>
+        <!-- Page content-->
+        <div class="container">
+            <div class="text-left mt-5">
+                <h1>Vill du ha din kyrka kvar? Gå till gudstjänst!</h1>
+                <p class="lead">En debattartikel som publicerades i <a href="https://www.salaallehanda.com/2023-05-20/vill-du-ha-din-kyrka-kvar-ga-till-gudstjanst">Sala Allehanda.</a></p>
+
+<p>Om du inte vill läsa hela texten, ta med dig det här: tycker du att din kyrka ska finnas kvar, att den är viktig av olika anledningar, gå till gudstjänst på söndagar! Förutom att fortsätta vara medlem i Svenska kyrkan är gudstjänstbesök det allra bästa du kan göra för att säkerställa att din kyrka är kvar i framtiden.</p>
+
+<p>Men varför är det viktigt? Låt oss först titta på Svenska kyrkans statistik. 1990 var det i hela landet drygt 24 miljoner gudstjänstbesök. Det hade sjunkit till drygt 7 miljoner år 2021. Under samma period hade antalet besök vid söndagens huvudgudstjänst minskat från drygt 9 miljoner till knappa 1,7 miljoner. Det är en drastisk minskning.</p>
+
+<p>I Svenska kyrkan står församlingen i fokus. Vi kan läsa i Kyrkoordningen: ”Svenska kyrkan framträder lokalt som en församling. Denna är den primära enheten inom kyrkan”. Vidare kan vi läsa att församlingens grundläggande uppgift är: ”att fira gudstjänst, bedriva undervisning samt utöva diakoni och mission”. Och av de fyra menar jag att vår kärnverksamhet, för att låna ett modeord, är att fira gudstjänst, utan gudstjänster är vi ingen kyrka.</p>
+
+<p>Att kyrkan är viktig för många är tydligt, kanske speciellt vid högtider och vid kriser, personliga eller för samhället. Det gäller Svenska kyrkan som företeelse och organisation, men kanske än mer den lokala fysiska kyrkobyggnaden. Att den finns där inger en trygghet, känsla av permanens, och påminnelse om livets olika skeenden. Därför och av en lång rad andra skäl är kyrkan viktig för många, och vi skulle sakna den om den försvann, eller inte hade verksamhet i sig.</p>
+
+<p>Jag hörde en klok präst säga för inte så länge sedan att en gudstjänst är som en dialog mellan två parter: anställda och besökare. Utan en part ingen gudstjänst. Att få dit de anställda (präst, kantor, vaktmästare) är i sammanhanget relativt lätt att lösa. Att få dit besökarna är mer problematiskt, men vi måste alla ta ansvar för det. För en kyrka där det inte firas gudstjänst riskerar att läggas i malpåse eller säljas, och det går i längden inte att fira gudstjänst utan besökare.</p>
+
+<p>Vi står alltså inför en stor utmaning. Antar du den? Jag tar på mig att besöka en kyrka på söndagar och fira gudstjänst oftare än jag gör i dag. Och jag hoppas att andra förtroendevalda gör detsamma, bara det skulle göra stor skillnad. Men även om du inte är förtroendevald behöver du också gå till gudstjänst, inte minst om du vill ha kvar din kyrka. Det duger inte att lämna över det ansvaret till andra.</p>
+
+<p>Magnus Nystedt, kyrkorådets ordförande i Kumla-Tärna-Kila pastorat</p>
+
+
+<?php echo "Uppdaterad: " . date ("F d Y H:i:s.", filemtime(basename(__FILE__)));?>
+            </div>
+        </div>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>

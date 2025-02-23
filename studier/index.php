@@ -1,0 +1,83 @@
+´<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Magnus Nystedt - Studier</title>
+        <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="../assets/favicon.ico" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="../css/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <!-- Responsive navbar-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container">
+                <a class="navbar-brand" href="https://magnusnystedt.se">Magnus Nystedt</a>
+
+            </div>
+        </nav>
+        <!-- Page content-->
+        <div class="container">
+            <div class="text-left mt-5">
+                <h1>Studier</h1>
+                <p class="lead">Jag har sedan unga år varit intresserad av fotografi. Så när jag 2011 genom ändrad jobbsituation fick mer fritid tänkte jag att jag skulle läsa fotografi på universitet. Och så blev det.</p>
+
+<h2>Konstvetenskap</h2>
+<p>Men det visade sig att det inte fanns så många kurser i fotografi och än färre på distans. Jag funderade och tänkte att fotografi är konst så jag skulle kunna läsa konstvetenskap utan att egentligen veta mycket om ämnet. Men så blev det.</p>
+
+<p>Jag läste någon kurs varje termin och började upp i ganska många poäng. Det passade mig ganska bra, så jag fortsatte.</p>
+
+<p>En dag tänkte jag, varför inte ta en examen i konstvetenskap? Som ett tydligt mål om inte annat. Visserligen har jag en kandidat i företagsekonomi sedan tidigare men en till skadar inte.</p>
+
+<p>Efter något års fördröjning med att komma in på en b-uppsatskurs lyckades jag i juni 2020 fixa den på Linnéuniversitetet. Jag skrev om en målning av Ivan Aguéli.</p>
+
+<p>Hösten 2020 kom jag in på c-kursen på Uppsala universitet och klarade kandidatexamen 2021. Jag fortsatte skriva om Aguéli.</p>
+
+<p>Våren 2024 färdiställde jag masterprogrammet <a href="https://lnu.se/program/konstkritik-och-konstpedagogik-masterprogram/vaxjo-distans-ht/">Konstkritik och konstpedagogik</a> vid Linnéuniversitet och även där spelar Aguéli en viss roll.</p>
+
+<p>Hösten 2024 läser jag kursen <a href="https://www.miun.se/utbildning/kurser/fotografi/fotografi-gr-a-fotohistoria/">Fotohistoria</a> vid Mittuniversitetet.</p>
+
+<h2>Inlämningsuppgifter och annat för några kurser</h2>
+<p>Notera att jag anger inte om jag fått betyget vg på någon kurs (vilket jag har), men alla har åtminstone fått godkänt. Ta gärna inspiration, men kopiera inte förstås.</p>
+<ul>
+<li><a href="studier/Kriskommunikation-Demirok.pdf">4SV201 Kriskommunikation</a></li>
+<li><a href="studier/Diskursanalys_Avslutande_paper-Nystedt.pdf">SO1220 Diskursanalys</a></li>
+<li><a href="studier/1kb022-slutuppgift-magnus-nystedt.pdf">1KB022 Bilden som vetenskaplig källa</a></li>
+<li><a href="studier/4kd111-nystedt.pdf">4KD111 Avancerad kurs i konst- och bildvetenskapliga teorier och metoder</a></li>
+<li><a href="studier/4KD113-nystedt.pdf">4KD113 Det konst och bildvetenskapliga fältet, konstkritiska och konstpedagogiska praktiker</a></li>
+<li><a href="studier/4kd103-nystedt.pdf">4KD103 Visuell kultur</a></li>
+<li><a href="studier/4kd105-nystedt.pdf">4KD105 Samtidskonst</a></li>
+<li><a href="studier/4kd106-nystedt.pdf">4KD106 Konstkritik</a></li>
+<li><a href="studier/4kd101-nystedt.pdf">4KD101 Konstvärldar</a></li>
+<li><a href="studier/4kd102-nystedt.pdf">4KD102 Konstpedagogik</a></li>
+<li><a href="studier/1kd113-Nystedt.pdf">1KD113 Kvinnliga konstnärer och surrealismen</a></li>
+<li>4kd112: <a href="studier/Uppvamningsuppgift_4kd112___Magnus__Nystedt.pdf">Uppvärmmingsuppgift</a>, <a href="studier/Forsknings%C3%B6versikt_4kd112.pdf">Forskningsöversikt</a>, <a href="studier/Pensum_4kd112.pdf">Pensum</a></li> 
+<li><a href="studier/FT026G-nystedt.pdf">Slutrapport FT026G Fotohistoria</a></li>
+</ul>
+<h2>Uppsatser</h2>
+
+<p>Masteruppsats i konstvetenskap (Linnéunveristetet, 2024): Att spåra Hans-Georg Gadamers spel i en konstpedagogisk aktivitet: <a href="https://www.diva-portal.org/smash/record.jsf?dswid=3509&pid=diva2%3A1884077&c=3&searchType=SIMPLE&language=en&query=magnus+nystedt&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=undergraduate">DiVA</a> eller <a href="studier/Masteruppsats_Magnus_Nystedt_2024-06-05_18.14.pdf">här</a>.</p>
+
+<p>C-uppsats i konstvetenskap (Uppsala universitet, 2021): <a href="http://uu.diva-portal.org/smash/record.jsf?fbclid=IwAR3wtJm0FQ6d39gATyCmy2EYi3PCNxEDhAAviqGF5SHIDJof4E6UevEuhgU&pid=diva2%3A1563887&dswid=-9929">"Samvetsgranna porträtt är alltid en god skola": En ikonologisk tolkning av fyra porträtt målade av Ivan Aguéli</a>.</p>
+
+<p>B-uppsats i konstvetenskap (Linnéuniversitetet, 2019): <a href="studier/B-uppsats Magnus Nystedt 2020-06-07.pdf">Det oändligas expansion En förklaring till Ivan Aguélis målning Gotländskt landskap med en biografisk metod</a>.</p>
+
+<p>C-uppsats i företagsekonomi (Blekinge Tekniska Högskola, Ronneby, 1996): <a href="studier/nystedt-okg.pdf">Positiv erfarenhetsåterföring i ett kärnkraftverk</a></p>
+
+<h2>Annat akademiskt</h2>
+<ul>
+<li><a href="studier/sedsi2005.pdf">The dual nature of egovernment: content management in Horry County</a></li>
+<li><a href="studier/mysql.pdf">Can open-source software replace commercial products in MIS teaching? Using MySQL in an introductory MIS class</a></li>
+</ul>
+<?php echo "Uppdaterad: " . date ("F d Y H:i:s.", filemtime(basename(__FILE__)));?>
+</div>
+        </div>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="../js/scripts.js"></script>
+    </body>
+</html>

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Magnus Nystedt - Morgon</title>
+        <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <!-- Responsive navbar-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container">
+                <a class="navbar-brand" href="https://magnusnystedt.se">Magnus Nystedt</a>
+
+            </div>
+        </nav>
+        <!-- Page content-->
+        <div class="container">
+            <div class="text-left mt-5">
+                <h1>Morgon</h1>
+                <p class="lead">Att läsa den här sidan är en del av min morgonrutin.</p>
+
+<h2>Trosbekännelsen</h2>
+
+Vi tror på Gud Fader allsmäktig,<br />
+himmelens och jordens skapare.<br />
+Vi tror ock på Jesus Kristus,<br />
+hans enfödde Son, vår Herre,<br />
+vilken är avlad av den Helige Ande,<br />
+född av jungfrun Maria,<br />
+pinad under Pontius Pilatus,<br />
+korsfäst, död och begraven,<br />
+nederstigen till dödsriket,<br />
+på tredje dagen uppstånden igen ifrån de döda,<br />
+uppstigen till himmelen,<br />
+sittande på allsmäktig Gud Faders högra sida,<br />
+därifrån igenkommande till att döma<br />
+levande och döda.<br />
+Vi tror ock på den helige Ande,<br />
+en helig, allmännelig kyrka,<br />
+de heligas samfund, syndernas förlåtelse,<br />
+de dödas uppståndelse och ett evigt liv.<br />
+
+<h2>Vår fader</h2>
+
+Vår Fader, du som är i himlen.<br />
+Låt ditt namn bli helgat.<br />
+Låt ditt rike komma.<br />
+Låt din vilja ske, på jorden så som i himlen.<br />
+Ge oss idag det bröd vi behöver.<br />
+Och förlåt oss våra skulder,<br />
+liksom vi har förlåtit dem som står i skuld till oss.<br />
+Och utsätt oss inte för prövning,<br />
+utan rädda oss från det onda.<br />
+Ditt är riket,<br />
+din är makten och äran,<br />
+i evighet.<br />
+Amen.
+
+<h2>Sinnesro</h2>
+
+GUD ge mig sinnesro att acceptera det jag inte kan förändra,<br />
+mod att förändra det jag kan<br />
+och förstånd att inse skillnaden.<br /><br />
+	
+	<h2>Lovsången</h2>
+	Du som håller universum i din hand,<br />
+	som har skapat jord och himmel, hav och land,<br />
+	vi sjunger gloria, gloria, gloria, äran är din!<br />
+	Gloria, gloria, gloria, äran är din!<br />
+	Du som levde på vår jord och blev vår vän,<br />
+	dog på korset men fick liv och lever än,<br />
+	vi sjunger gloria, gloria, gloria, äran är din!<br />
+	Gloria, gloria, gloria, äran är din!<br />
+	Du som bor i mig i varje andetag,<br />
+	fyller mig med mod och kraft när jag är svag,<br />
+	vi sjunger gloria, gloria, gloria, äran är din!<br />
+	Gloria, gloria, gloria, äran är din!<br /><br />
+	
+
+<h2>Bön för Guds hus</h2>
+O Gud, gör dörren till detta hus vid nog att ta emot alla som längtar efter kärlek och gemenskap,<br />
+trång nog att utestänga all avund, högfärd och trätlystnad.<br />
+Gör dess tröskel så slät att den inte blir en stötesten för barn eller vilsna fötter,<br />
+men så hög och stark att den tvingar frestarens makt tillbaka.<br />
+Gud, låt dörren till detta hus bli en port till ditt eviga rike. Amen<br />
+</p>
+<?php echo "Uppdaterad: " . date ("F d Y H:i:s.", filemtime(basename(__FILE__)));?>
+</p>
+
+            </div>
+        </div>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>

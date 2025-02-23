@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Magnus Nystedt - Tips för studerande</title>
+        <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="../assets/favicon.ico" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="../css/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <!-- Responsive navbar-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container">
+                <a class="navbar-brand" href="https://magnusnystedt.se">Magnus Nystedt</a>
+
+            </div>
+        </nav>
+        <!-- Page content-->
+        <div class="container">
+            <div class="text-left mt-5">
+                <h1>Tips för studerande</h1>
+                <p class="lead">Jag studerar konstvetenskap, just nu på masterprogrammet <a href="https://lnu.se/program/konstkritik-och-konstpedagogik-masterprogram/vaxjo-distans-ht/">Konstpedagogik och konstkritik</a> vid Linnéuniversitetet. Här samlar jag några tips på studietekniker, verktyg och annat som kanske kan hjälpa dig.</p>
+
+<p><b><a href="https://singlelogin.me/">Zlib</a></b> en enorm databas av alla möjliga böcker. Lagligheten med att ladda ned är högst tveksam, och det kan vara knepigt att komma in, men väldigt många böcker finns i olika format.</p>
+
+<p><b>Studera med fokus på examinerande uppgifter</b>: Så fort du kan, läs om dina inlämningsuppgifter och vad du måste göra för att klara av kursen. Läs nog, spalta upp uppgifterna i delar och vad du måste göra för att klara av dem. Lite kontroversiellt tänker jag också att läs bara det du måste. Om du har en hel bok som kurslitteratur, men instruktionerna för uppgiften bara anger ett kapitel, läs bara det kapitlet.</p>
+
+<p><b>Hur du läser spelar roll.</b> Välj ett sätt som passar dig. Jag läser helst på min iPad, då stryker jag under och över, skriver kommentarer. Jag kan också lägga till bokmärken så det är lätt att hoppa runt senare. Det finns många appar för detta men jag använder nästan uteslutande <a href="https://pdfexpert.com/">PDF Expert</a>.</p>
+
+<p>Lite motstridigt med föregående punkt, men <b>läs annan litteratur</b>: Jag läser sällan mer av kurslitteraturen än jag behöver, men däremot läser jag mycket annat. Jag följer upp referenser som nämnts i kurslitteraturen, utökar mitt läsande. Men notera om det nämns om du får använda andra källor än kurslitteraturen i dina inlämningsuppgifter. Det står oftast inte i instruktionerna är min erfarenhet och varierar mellan lärare hur de ser på det. Jag tycker det berikar.</p>
+
+<p><b><a href="http://libris.kb.se/">Libris</a></b>:  Libris är en fantastisk resurs. Jag använder den framför allt som sökmotor för sånt jag sedan fjärrlånar (se nästa punkt), men i vissa fall också sånt jag måste läsa på plats. Libris har också ett verktyg för att med något klick formatera en referens.</p>
+
+<p>Glöm inte <b>ditt lokala bibliotek</b>: ditt bibliotek har kanske inte de böcker du behöver, men du kan fjärrlåna det som finns i Libris (det finns förstås undantag, sånt som inte skickas). I alla fall i Västmanland kostar ett fjärrlån 10 kr.</p>
+
+<p><b>Scanna böcker med din telefon</b>: särskilt böcker jag fjärrlånar scannar jag av valda sidor med min telefon. Det finns många appar för detta men jag tycker <a href="https://www.vflat.com/?lang=en">vFlat</a> är mycket bra. Fota av sidorna, sen skapar appen en pdf-fil. Sen är det ett bonus om du har tillgång till Adobe Acrobat Pro. Då kan du köra textigenkänning på pdf-filerna, så böckerna blir sökbara. Det gör det också enklare att kopiera text från böckerna, i stället för att skriva av den.</p>
+
+<p><b>Skapa ett digitalt arkiv</b>: hur du gör det spelar mindre roll, men skapa ett digitalt arkiv med allt material du har gått igenom. Jag använder Onedrive. Där jag en mapp för studier per termin. Sen har jag andra mappar för allt material jag gått igenom, artiklar och böcker med renskrivna anteckningar. Välj en struktur som passar dig, men fokusera på arbetsflöde, snarare än statisk struktur. Du kommer behöva gå igenom stora mångder information.</p>
+
+<p><b>Läs instruktioner noga!</b> När du får en uppgift, läs den noga och notera vad det är du måste göra för att få godkänt eller väl godkänt. Ofta får du då en bra bild av vad du ska klara av. Jag gör oftast så att jag levererar vad jag uppfattar en uppgift som är bra nog att godkänna, men inte mycket mer än så. Det blir väl godkänt ändå ibland, vilket förstås är trevligt. Notera sånt som antal ord/tecken, vilket språk som används (står det beskriv, diskutera, sammanfatta, analysera osv).</p>
+
+<p><b>Minimera jobb med icke examinerande uppgifter</b>: I de kurser jag läser får vi ofta uppgifter av typen läs en viss text och gör ett inlägg i webbforumet och kommentera på åtminstone en annan students inlägg. Man ska göra det men man får inget betyg för det. Bara en grej att pricka av. Gör sådana uppgifter, men lägg ingen större energi på dem, fokusera på det som är beytgsgrundande.</p>
+
+<p><b>Spela in föreläsningar</b>: Om det ges föreläsningar på din kurs och de görs tillgängliga via någon digital plattform, spela in och spara dem. Inte alla miljöer stödjer att man laddar ner filerna, då kan du spela upp videon och spela in med skärminspelning på t.ex. en iPhone. Så gör jag, oftast med min iPad. Sen laddar jag ner inspelningarna och laddar upp dem till YouTube och gör så bara jag kan se dem. Sen gör jag en spellista per kurs.</p>
+
+<?php echo "Uppdaterad: " . date ("F d Y H:i:s.", filemtime(basename(__FILE__)));?>
+            </div>
+        </div>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="../js/scripts.js"></script>
+    </body>
+</html>
